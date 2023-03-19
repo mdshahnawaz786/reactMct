@@ -1,0 +1,36 @@
+
+.Navbar{
+    height: 10%;
+    width: 100%;
+    display: flex;
+    background-color: black;
+}
+
+.wasteDiv{
+    height: 100%;
+    width: 60%;
+    display: flex;
+    /* border: 2px solid white; */
+}
+
+.barDiv{
+    height: 100%;
+    width: 40%;
+    display: flex;
+    /* border: 2px solid white; */
+    color: white;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.barDiv ul{
+    display: flex;
+    list-style: none;
+    gap: 50px;
+}
+
+.navLink{
+    color: white;
+    text-decoration: none;
+}

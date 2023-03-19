@@ -1,0 +1,10 @@
+.contact{
+    height: 80%;
+    width: 100%;
+}
+
+.contact h1 {
+    text-align: center;
+    margin-top: 40px;
+    color: red;
+}
